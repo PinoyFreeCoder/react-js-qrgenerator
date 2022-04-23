@@ -1,3 +1,3 @@
 # ReactJS QR code generator
 
-Full tuturial on my youtube channel, enjoy!
+Full tutorial on my youtube channel, enjoy!
